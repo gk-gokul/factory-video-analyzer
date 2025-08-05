@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+process_summary.json
+frame_descriptions.txt
+Cycle Frames/
+Frames Outputted/
+*.mp4
+.env
+.DS_Store
